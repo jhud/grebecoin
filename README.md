@@ -8,3 +8,6 @@ It will have a magical lucky token and I'll send you a grebe t-shirt if you mine
 If you want to join the ICO, send me bitcoins.
 
 Pic from https://en.wikipedia.org/wiki/File:Podiceps_cristatus_2_-_Lake_Dulverton.jpg
+
+# GETTING STARTED
+To make a new wallet, run "python wallet.py". Your private key is in "private.pem" - do not share this with anyone! Someone will have access to all your funds if they have this. Store it on a USB key for extra security.
